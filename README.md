@@ -3,15 +3,29 @@
 Netflix Original Films & IMDB Scores  EDA project performs a comprehensive Exploratory Data Analysis (EDA) on a dataset of Netflix Original films to uncover the drivers behind critical success (IMDB Scores). By leveraging Python (Pandas, NumPy) for data wrangling and Seaborn/Matplotlib.
 
 
-
-Table of contents
-<a herf = "#overview">overview</a>
-<a herf = "#Dataset">Dataset</a>
-<a herf = "#Tools and Technology">Tools & Technology</a>
-<a herf = "#Research Questions & key findings">Research Questions & key findings</a>
-<a herf = "# How to run this Project">How to run this Project</a>
-<a herf = "#Final Recommendation">Final Recommendation</a>
-<a herf = "#Author & contact">Author & contact</a>
+<table border="1">
+<thead Table of contents>
+  <tr>
+    <th>overview</th>
+    <th>Dataset</th>
+    <th>Tools & Technology</th>
+    <th>Research Questions & key findings</th>
+    <th>How to run this Project</th>
+    <th>Final Recommendation</th>
+    <th>Author & contact</th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td><a herf = "#overview">overview</a></td>
+      <td><a herf = "#Dataset">Dataset</a></td>
+      <td><a herf = "#Tools and Technology">Tools & Technology</a></td>
+      <td><a herf = "#Research Questions & key findings">Research Questions & key findings</a></td>
+      <td><a herf = "# How to run this Project">How to run this Project</a></td>
+      <td><a herf = "#Final Recommendation">Final Recommendation</a></td>
+      <td><a herf = "#Author & contact">Author & contact</a></td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -106,5 +120,6 @@ I recommend that Netflix shifts from a volumecentric strategy to a datainformed 
 <br>Email: syedtayab01@gmail.com</br>
 <br>[LinkedIn](www.linkedin.com/in/syedtayab01)</br>
 <br>[GitHub](https://github.com/TAYABHUB)</br></p>
+
 
 
