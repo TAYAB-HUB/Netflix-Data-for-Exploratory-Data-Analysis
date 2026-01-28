@@ -94,9 +94,9 @@ This Project cover this question:
 
 <h2><a class="anchor" id="Final Recommendation"></a>Final Recommendation</h2>
 
-<p>Netflix should prioritize the production of films between 90 and 110 minutes.
-Increase investment in localized original content for highperforming international markets.
-I recommend that Netflix shifts from a volumecentric strategy to a datainformed quality strategy.</p>
+<p><br>1.Netflix should prioritize the production of films between 90 and 110 minutes.</br>
+<br>2.Increase investment in localized original content for highperforming international markets.</br>
+<br>3.I recommend that Netflix shifts from a volumecentric strategy to a datainformed quality strategy.</br></p>
 
 
 
@@ -106,6 +106,7 @@ I recommend that Netflix shifts from a volumecentric strategy to a datainformed 
 <br>Email: syedtayab01@gmail.com</br>
 <br>[LinkedIn](www.linkedin.com/in/syedtayab01)</br>
 <br>[GitHub](https://github.com/TAYABHUB)</br></p>
+
 
 
 
