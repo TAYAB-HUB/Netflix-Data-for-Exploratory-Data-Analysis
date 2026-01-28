@@ -3,7 +3,7 @@
 Netflix Original Films & IMDB Scores  EDA project performs a comprehensive Exploratory Data Analysis (EDA) on a dataset of Netflix Original films to uncover the drivers behind critical success (IMDB Scores). By leveraging Python (Pandas, NumPy) for data wrangling and Seaborn/Matplotlib.
 
 
-# Table of contents>
+# Table of contents
   <p>
     <br>1.overview</br>
     <br>2.Dataset</br>
@@ -106,6 +106,7 @@ I recommend that Netflix shifts from a volumecentric strategy to a datainformed 
 <br>Email: syedtayab01@gmail.com</br>
 <br>[LinkedIn](www.linkedin.com/in/syedtayab01)</br>
 <br>[GitHub](https://github.com/TAYABHUB)</br></p>
+
 
 
 
