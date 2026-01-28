@@ -16,7 +16,7 @@ Netflix Original Films & IMDB Scores  EDA project performs a comprehensive Explo
   </tr>
   <tbody>
     <tr>
-      <td></td><a herf = "#overview">overview</a></td>
+      <td></td><a herf = "overview">overview</a></td>
       <td><a herf = "#Dataset">Dataset</a></td>
       <td><a herf = "#Tools and Technology">Tools & Technology</a></td>
       <td><a herf = "#Research Questions & key findings">Research Questions & key findings</a></td>
@@ -120,6 +120,7 @@ I recommend that Netflix shifts from a volumecentric strategy to a datainformed 
 <br>Email: syedtayab01@gmail.com</br>
 <br>[LinkedIn](www.linkedin.com/in/syedtayab01)</br>
 <br>[GitHub](https://github.com/TAYABHUB)</br></p>
+
 
 
 
